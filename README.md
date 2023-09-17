@@ -1,10 +1,10 @@
 # Introduction
 
-Hello, this is a Intagram Video Parser package.
+Hello, this is a Intagram Video Parser package. The parsing strategy doesn't work anymore after Instagram updated their website
 
 ## Installation
 
-```
+<!-- ```
 > npm install insta-dl
 ```
 
@@ -57,4 +57,4 @@ instaDL
 ```javascript
 reelInfo.video.contentUrl;
 ```
-# insta-dl
+# insta-dl -->
